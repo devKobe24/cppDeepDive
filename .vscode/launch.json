@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/kobe/Desktop/cppDeepDive/240101-CharDataType",
-      "program": "/Users/kobe/Desktop/cppDeepDive/240101-CharDataType/build/Debug/outDebug"
+      "cwd": "/Users/kobe/Desktop/cppDeepDive/240102-ArithmeticOperrators",
+      "program": "/Users/kobe/Desktop/cppDeepDive/240102-ArithmeticOperrators/build/Debug/outDebug"
     }
   ]
 }
