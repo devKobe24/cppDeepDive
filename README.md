@@ -15,7 +15,7 @@
 
 ## 👨‍💻 프로젝트.
 <img src = "https://github.com/devKobe24/images/blob/main/myFirstCppProgram.gif?raw=true"><br>
-| 프로그램 이름. | 프로그램 설명. | 
-| -------- | -------- |
-| 도넛. | 3차원처럼 입체감 있게 도넛을 콘솔로 그려서 보여주는 프로그램. |
-| 피서 트리를 이용한 계산기. | 수식 파서 트리를 이용하여 수식을 계산해주는 계산기 프로그램. |
+| 프로그램 이름. | 프로그램 설명. | 레포지토리 |
+| -------- | -------- | -------- |
+| 도넛. | 3차원처럼 입체감 있게 도넛을 콘솔로 그려서 보여주는 프로그램. | [도넛](https://github.com/devKobe24/cppDeepDive/tree/main/240102-Donut3D) |
+| 피서 트리를 이용한 계산기. | 수식 파서 트리를 이용하여 수식을 계산해주는 계산기 프로그램. | [계산기](https://github.com/devKobe24/cppDeepDive/tree/main/240103-Calculator) |
