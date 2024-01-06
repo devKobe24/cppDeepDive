@@ -15,6 +15,7 @@
 - 240104 : 문자열(`String`) 학습.
 - 240104 : 사용자 입력(`cin`, `cin.get()`, `cin.getline()`) 학습.
 - 230106 : 묵찌빠 게임 프로그램 학습.
+- 230106 : 계산기 프로그램 학습.
 ---
 
 ## 👨‍💻 프로젝트.
@@ -22,5 +23,6 @@
 | 프로그램 이름. | 프로그램 설명. | 레포지토리 |
 | -------- | -------- | -------- |
 | 도넛. | 3차원처럼 입체감 있게 도넛을 콘솔로 그려서 보여주는 프로그램. | [도넛](https://github.com/devKobe24/cppDeepDive/tree/main/240102-Donut3D) |
-| 피서 트리를 이용한 계산기. | 수식 파서 트리를 이용하여 수식을 계산해주는 계산기 프로그램. | [계산기](https://github.com/devKobe24/cppDeepDive/tree/main/240103-Calculator) |
+| 피서 트리를 이용한 계산기. | 수식 파서 트리를 이용하여 수식을 계산해주는 계산기 프로그램. | [파서트리 계산기](https://github.com/devKobe24/cppDeepDive/tree/main/240103-Calculator) |
 | 묵찌빠 게임. | 콘솔을 이용한 묵찌빠 게임 프로그램. | [묵찌빠](https://github.com/devKobe24/cppDeepDive/tree/main/240106-RockPaperScissorsGame) |
+| 계산기 | 피연산자 2개와 연산자 1개를 이용하여 수식 결과를 콘솔에 보여주는 계산기 프로그램. | [계산기](https://github.com/devKobe24/cppDeepDive/tree/main/240106-Calculator) |
