@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/kobe/Desktop/cppDeepDive/240206-QuizGame",
+      "program": "/Users/kobe/Desktop/cppDeepDive/240206-QuizGame/build/Debug/outDebug"
+    }
+  ]
+}
