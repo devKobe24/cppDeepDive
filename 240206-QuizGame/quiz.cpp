@@ -84,5 +84,8 @@ int main() {
 	Quiz quiz;
 
 	// Add questions
-	quiz.addQuestion("이 프로그램을 만든 사람은?", {"1) 브라이언", "2) 팀 쿡", "3) 코비", "4) 스티브 워즈니악 5) 빌 게이츠"}, 3);
+	quiz.addQuestion("이 프로그램을 만든 사람은?", {"1) 브라이언", "2) 팀 쿡", "3) 코비", "4) 스티브 워즈니악", "5) 빌 게이츠"}, 3);
+	// START QUIZ
+	quiz.startQuiz();
+	return 0;
 }
